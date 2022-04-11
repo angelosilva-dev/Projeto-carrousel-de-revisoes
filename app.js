@@ -4,7 +4,7 @@ const reviews = [
         name: "Susan Smith",
         job: "Web developer",
         img: "img/img-person4.jpg",
-        text: "Lorem ipsum dolor sit amet, deserunt magnam deleniti blanditiis impedit tempore, exercitationem consectetur adipisicing elit. Ea provident maiores eveniet iure  ipsa ut facere."
+        text: "Lorem ipsum dolor sit amet, deserunt magnam deleniti blanditiis impedit tempore, exercitationem consectetur adipisicing elit. Ea provident maiores eveniet iure  ipsa ut facere. deserunt magnam deleniti blanditiis impedit  elit. "
     },
     {
         id: 2,
